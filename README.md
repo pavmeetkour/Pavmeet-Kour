@@ -17,4 +17,4 @@
 <p><a target="_blank" href="https://dev.to/pavmeetkour" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/pavmeet-kour-837688382?utm_source=share_via&utm_content=profile&utm_medium=member_android" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/meet_the _canvas" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paavmeet Kour&show_icons=true&locale=en&layout=compact" alt="Paavmeet Kour" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pavmeet Kour&show_icons=true&locale=en&layout=compact" alt="Pavmeet Kour" /></p>
